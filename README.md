@@ -1,4 +1,3 @@
-# vue-router-demo
 
 ## Project setup
 ```
@@ -14,3 +13,8 @@ yarn run serve
 ```
 yarn run build
 ```
+
+# 效果图
+就是目录里的pizza图，详情可以跑一下demo哦；
+# 文档
+[官方文档](https://router.vuejs.org/zh/)
